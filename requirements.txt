@@ -1,0 +1,4 @@
+ccxt==4.5.94
+pandas>=2.0,<3
+numpy>=1.24,<3
+aiohttp>=3.9
